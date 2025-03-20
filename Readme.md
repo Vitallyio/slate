@@ -1,3 +1,8 @@
+
+ Vitally Fork.
+ We cherry-picked this [commit](https://github.com/ianstormtaylor/slate/commit/9aa573e9b8b2aff0c702fc6efa622e71db7759f1) to fix a placeholder bug in `0.98.3`
+
+
 <p align="center">
   <a href="#"><img src="./docs/images/banner.png" /></a>
 </p>
